@@ -1,0 +1,77 @@
+[33mcommit 5a2e8eec5c0c63b6a349ee2113805cc6b4fc1bde[m[33m ([m[1;36mHEAD -> [m[1;32mdev_mf[m[33m, [m[1;31morigin/dev_mf[m[33m)[m
+Merge: ce501ea c8b9067
+Author: Mike Feng <18wtf@queensu.ca>
+Date:   Sat Oct 31 08:14:01 2020 +0800
+
+    merging, ready for GUI test @GuWei
+
+[33mcommit c8b90671dd460e0502e887b45a7ed2561b3f9c08[m[33m ([m[1;32mfeature_testUI[m[33m, [m[1;32mdev_mf_local[m[33m)[m
+Author: Mike Feng <18wtf@queensu.ca>
+Date:   Sat Oct 31 08:11:43 2020 +0800
+
+    Ready for GUI testing
+    Check the comments,important infomations
+
+[33mcommit 0edb3f13d8a6ea540fda2ee8f48ccc62e5d1242e[m
+Author: Mike Feng <18wtf@queensu.ca>
+Date:   Sat Oct 31 08:07:23 2020 +0800
+
+    Charactor change
+
+[33mcommit a5e3d24b3067b138d7362cfab1163cd178a86e49[m
+Author: Mike Feng <18wtf@queensu.ca>
+Date:   Sat Oct 31 07:51:37 2020 +0800
+
+    Ready for GUI flow test:
+    tip:
+    shift+q to enter fight GUI
+
+[33mcommit ccd94b9d38e4ee747e4e9a6cdb37e6e02b513bad[m
+Author: Mike Feng <18wtf@queensu.ca>
+Date:   Sat Oct 31 07:49:42 2020 +0800
+
+    Playable GUI test：
+    add initmap, controller, hero
+    add blueprint for the basic logic
+
+[33mcommit ce501ea79a1e9f5bc5a0a3c9be64c030924b4bdb[m
+Author: Mike Feng <18wtf@queensu.ca>
+Date:   Sat Oct 31 05:09:38 2020 +0800
+
+    finished welcomepage & mainpage UI
+
+[33mcommit 78543c3e1a3d9a29801a53ebb22e0b16c4b349dd[m
+Author: Mike Feng <18wtf@queensu.ca>
+Date:   Sat Oct 31 01:55:08 2020 +0800
+
+    Battle UI finished & anniation wait for test
+
+[33mcommit 6f0e5be0df23da41b6576570a55792c784efced4[m
+Author: Mike Feng <18wtf@queensu.ca>
+Date:   Sat Oct 31 00:25:13 2020 +0800
+
+    Battle UI basic fram add & add two pokemon animation for test
+
+[33mcommit 7269888063a12c98f5a2db4872e104a524a326d3[m
+Author: Mike Feng <18wtf@queensu.ca>
+Date:   Thu Oct 29 02:43:29 2020 +0800
+
+    Pretty the tile of spawnMap
+
+[33mcommit 3ada35cc5fe8d32d19d1827b8fa470a73e5d0970[m
+Author: Wei Gu <16wg11@caslab.queensu.ca>
+Date:   Thu Oct 29 00:59:12 2020 +0800
+
+    audio update
+
+[33mcommit ed669973178476f1c4e8db8b069292095ac15add[m
+Author: Wei Gu <16wg11@caslab.queensu.ca>
+Date:   Thu Oct 29 00:40:28 2020 +0800
+
+    test map & audio
+
+[33mcommit 4f47d629c5e1e5e6c0351091c9e02f70a666dab5[m
+Author: Wei Gu <16wg11@caslab.queensu.ca>
+Date:   Thu Oct 29 00:27:10 2020 +0800
+
+    commit
